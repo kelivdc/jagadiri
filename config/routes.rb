@@ -10,5 +10,5 @@ Rails.application.routes.draw do
     collection do
       post 'bulk_upload'
     end
-   end
+  end
 end
